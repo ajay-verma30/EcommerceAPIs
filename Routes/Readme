@@ -1,0 +1,15 @@
+Ecommerce API's build using nodejs
+Packages utilized:
+Bcryptjs
+Jsonwebtoken
+short-unique-id
+axios
+body-parser
+cors
+jwt-decode
+morgan
+mysql2
+dotenv
+express
+
+
